@@ -1,5 +1,4 @@
 /*  
-    Created By Tuhin Sengupta. 
     Kalman  Filter is used to smoth out fluctuating values 
     This is a arduino library to implement kalman filter 
 */
