@@ -7,8 +7,8 @@ char TS_payload[] = "GET https://api.thingspeak.com/update?api_key=D4SUXF8GPW96T
 
 
 /************************************** Initial Delay **************************************/
-#define INIT_DELAY 10000
+#define INIT_DELAY 10000	// delay in mili second
 
 
 /************************************** Interval Delay **************************************/
-#define INTERVAL 10000
+#define INTERVAL 10000		// delay in mili second
